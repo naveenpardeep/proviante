@@ -39,8 +39,9 @@ intl - форматирование дат
 Клонируйте репозиторий:
 
 
-git clone https://github.com/ваш-username/flutter-todo-riverpod.git
-cd flutter-todo-riverpod
+git clone https://github.com/naveenpardeep/proviante.git
+cd proviante
+
 Установите зависимости:
 
 
